@@ -114,7 +114,8 @@ class Raid6Controller():
         return data
         
         
-    
+############################################################################################
+# Test:
 cont = Raid6Controller(8,6)
 files = []
 # Create random "files" consisting of 6 1-byte symbols
