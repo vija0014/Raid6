@@ -2,6 +2,10 @@
 
 This is the implementation of Raid 6 file storeage system. The drives are simulated as Numpy arrays stored on the computers "real" drive. The program can handle .txt and .png files. For .png files only square shaped images work. Keep in mind that the program is really slow so use small images only (less than 100x100). 
 
+You are going to need the package pyfinite available here: https://github.com/emin63/pyfinite
+Besides you also need Python Image Library (PIL) and tqdm package (for progress bar) and standard Python stuff like Numpy, Matplotlib etc.
+
+
 To use the program:
 
 1. Download this repo
