@@ -1,6 +1,6 @@
 # Raid6
 
-This is the implementation of Raid 6 file storeage system. The drives are simulated as Numpy arrays stored on the computers "real" drive. The program can handle .txt and .png files. For .png files only square shaped images work.
+This is the implementation of Raid 6 file storeage system. The drives are simulated as Numpy arrays stored on the computers "real" drive. The program can handle .txt and .png files. For .png files only square shaped images work. Keep in mind that the program is really slow so use small images only for your own sake (less than 100x100). 
 
 To use the program:
 
